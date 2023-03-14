@@ -1,0 +1,13 @@
+tag dengan display inline
+1.span
+2.a
+3.img
+4.li
+5.input
+
+tag dengan display block
+1.p
+2.form
+3.section
+4.div
+5.option

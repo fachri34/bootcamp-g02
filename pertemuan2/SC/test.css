@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    background-color: #F5F5F5;
+    ;
+}
+
+.navbar {
+    width: 100%;
+    padding: 20px;
+
+}
+
+h2 {
+    color: blue;
+}
+
+.navline {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.navlist {
+    margin-left: 25px;
+}
+
+.navlink {
+    text-decoration: none;
+}
+
+.ujung {
+    color: blue;
+    font-size: 60px;
+    font-weight: 100;
+}
+
+.tengah {
+    font-size: 70px;
+    color: blue;
+}
+
+.content {
+    padding-top: 50px;
+    margin: 100px;
+    margin-left: 150px;
+}
+
+.gambar {
+    position: absolute;
+    top: 10%;
+    right: 0;
+}
+
+.pilih{
+    position: absolute;
+    right: 5%;
+    bottom: 25px;
+}
+
+button{
+    color: blue;
+    border-color: blue;
+    padding: 10px;
+    width: 120px;
+    border-radius: 5px;
+}
